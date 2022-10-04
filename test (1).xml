@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Currencies>
+    <Coin>
+        <name>ArkCoin</name>
+        <price>34</price>
+        <imgPath>./Images/ArkCoin.png</imgPath>
+        <description>Programmable contracts and money</description>
+        <fluctuation24h>-0.15</fluctuation24h>
+        <fluctuation7d>-0.05</fluctuation7d>
+        <marketCap>646547812</marketCap>
+        <volume24h>35862</volume24h>
+    </Coin>
+    <Coin>
+        <name>MineCoin</name>
+        <price>2350.77</price>
+        <imgPath>./Images/MineCoin.png</imgPath>
+        <description>Bitcoin clone</description>
+        <fluctuation24h>0.25</fluctuation24h>
+        <fluctuation7d>0.12</fluctuation7d>
+        <marketCap>1328766565</marketCap>
+        <volume24h>78135</volume24h>
+    </Coin>
+    <Coin>
+        <name>PixelCoin</name>
+        <price>1.011</price>
+        <imgPath>./Images/PixelCoin.png</imgPath>
+        <description>Enterprise payment settlement network</description>
+        <fluctuation24h>0.55</fluctuation24h>
+        <fluctuation7d>0.10</fluctuation7d>
+        <marketCap>6583223</marketCap>
+        <volume24h>1353</volume24h>
+    </Coin>
+    <Coin>
+        <name>MapleCoin</name>
+        <price>1.99</price>
+        <imgPath>./Images/MapleCoin.png</imgPath>
+        <description>Faster Bitcoin, Canadian Style</description>
+        <fluctuation24h>-0.31</fluctuation24h>
+        <fluctuation7d>-0.22</fluctuation7d>
+        <marketCap>79854917901</marketCap>
+        <volume24h>78943</volume24h>
+    </Coin>
+    <Coin>
+        <name>GenshinCoin</name>
+        <price>1.012</price>
+        <imgPath>./Images/GenshinCoin.png</imgPath>
+        <description>Privacy-focused Bitcoin clone </description>
+        <fluctuation24h>-0.12</fluctuation24h>
+        <fluctuation7d>0.1</fluctuation7d>
+        <marketCap>789435</marketCap>
+        <volume24h>1355</volume24h>
+    </Coin>
+    <Coin>
+        <name>GalaxyCoin</name>
+        <price>3.53</price>
+        <imgPath>./Images/GalaxyCoin.png</imgPath>
+        <description>Chinese-market Ethereum </description>
+        <fluctuation24h>0.03</fluctuation24h>
+        <fluctuation7d>-0.03</fluctuation7d>
+        <marketCap>65189465</marketCap>
+        <volume24h>4982</volume24h>
+    </Coin>
+    <Coin>
+        <name>ClashCoin</name>
+        <price>12560.24</price>
+        <imgPath>./Images/ClashCoin.png</imgPath>
+        <description>Batteries-included digital assets</description>
+        <fluctuation24h>1.50</fluctuation24h>
+        <fluctuation7d>1.01</fluctuation7d>
+        <marketCap>5654826556</marketCap>
+        <volume24h>78213</volume24h>
+    </Coin>
+    <Coin>
+        <name>MouseCoin</name>
+        <price>54</price>
+        <imgPath>./Images/MouseCoin.png</imgPath>
+        <description>Internet-of-things payments</description>
+        <fluctuation24h>0.02</fluctuation24h>
+        <fluctuation7d>-0.03</fluctuation7d>
+        <marketCap>3216598</marketCap>
+        <volume24h>98132</volume24h>
+    </Coin>
+    <Coin>
+        <name>ExoCoin</name>
+        <price>23.725</price>
+        <imgPath>./Images/ExoCoin.png</imgPath>
+        <description>Ethereum contracts on Bitcoin </description>
+        <fluctuation24h>-0.02</fluctuation24h>
+        <fluctuation7d>-0.05</fluctuation7d>
+        <marketCap>120652785002</marketCap>
+        <volume24h>1653</volume24h>
+    </Coin>
+    <Coin>
+        <name>ArcheroCoin</name>
+        <price>100.464</price>
+        <imgPath>./Images/ArcheroCoin.png</imgPath>
+        <description>Private digital cash</description>
+        <fluctuation24h>-0.06</fluctuation24h>
+        <fluctuation7d>-0.32</fluctuation7d>
+        <marketCap>100808541</marketCap>
+        <volume24h>48683</volume24h>
+    </Coin>
+    <Coin>
+        <name>Indentium</name>
+        <price>200</price>
+        <imgPath>./Images/Indentium.png</imgPath>
+        <description>Madoff-like investment fund</description>
+        <fluctuation24h>0.14</fluctuation24h>
+        <fluctuation7d>-0.24</fluctuation7d>
+        <marketCap>6548956526</marketCap>
+        <volume24h>8789</volume24h>
+    </Coin>
+    <Coin>
+        <name>Stack</name>
+        <price>60</price>
+        <imgPath>./Images/Stack1.png</imgPath>
+        <description>Decentralized applications in JavaScript</description>
+        <fluctuation24h>-0.01</fluctuation24h>
+        <fluctuation7d>-0.23</fluctuation7d>
+        <marketCap>321231</marketCap>
+        <volume24h>1235469</volume24h>
+    </Coin>
+    <Coin>
+        <name>CTRLC</name>
+        <price>61</price>
+        <imgPath>./Images/CTRLC.png</imgPath>
+        <description>Decentralized applications on WebAssembly</description>
+        <fluctuation24h>-0.50</fluctuation24h>
+        <fluctuation7d>-0.44</fluctuation7d>
+        <marketCap>1231</marketCap>
+        <volume24h>123</volume24h>
+    </Coin>
+    <Coin>
+        <name>CTRLV</name>
+        <price>59</price>
+        <imgPath>./Images/CTRLV.png</imgPath>
+        <description>description</description>
+        <fluctuation24h>-0.49</fluctuation24h>
+        <fluctuation7d>-0.5</fluctuation7d>
+        <marketCap>651652</marketCap>
+        <volume24h>5965</volume24h>
+    </Coin>
+    <Coin>
+        <name>VisualCoin</name>
+        <price>17</price>
+        <imgPath>./Images/VisualCoin.png</imgPath>
+        <description>Decentralized exchange and crowdfunding</description>
+        <fluctuation24h>0.12</fluctuation24h>
+        <fluctuation7d>0.015</fluctuation7d>
+        <marketCap>6551651</marketCap>
+        <volume24h>7893</volume24h>
+    </Coin>
+    <Coin>
+        <name>CoffeeCoin</name>
+        <price>23585.22</price>
+        <imgPath>./Images/CoffeeCoin.png</imgPath>
+        <description>Privacy-focused cryptocurrency </description>
+        <fluctuation24h>0.01</fluctuation24h>
+        <fluctuation7d>-0.03</fluctuation7d>
+        <marketCap>467751647509</marketCap>
+        <volume24h>3555</volume24h>
+    </Coin>
+    <Coin>
+        <name>Garliccoin</name>
+        <price>9</price>
+        <imgPath>./Images/Garliccoin.png</imgPath>
+        <description>Blockchain for spawning blockchains</description>
+        <fluctuation24h>0.017</fluctuation24h>
+        <fluctuation7d>0.013</fluctuation7d>
+        <marketCap>651650</marketCap>
+        <volume24h>78939</volume24h>
+    </Coin>
+    <Coin>
+        <name>CTRLClite</name>
+        <price>3.035</price>
+        <imgPath>./Images/CTRLCLite.png</imgPath>
+        <description>Pay Binance exchange fees</description>
+        <fluctuation24h>0.01</fluctuation24h>
+        <fluctuation7d>0.04</fluctuation7d>
+        <marketCap>1543689</marketCap>
+        <volume24h>98325</volume24h>
+    </Coin>
+    <Coin>
+        <name>Notepad</name>
+        <price>5.2</price>
+        <imgPath>./Images/NotePad.png</imgPath>
+        <description> Bitcoin with alternative governance </description>
+        <fluctuation24h>1.90</fluctuation24h>
+        <fluctuation7d>1.56</fluctuation7d>
+        <marketCap>6565323</marketCap>
+        <volume24h>896</volume24h>
+    </Coin>
+    <Coin>
+        <name>G-Edit</name>
+        <price>1</price>
+        <imgPath>./Images/Gedit.png</imgPath>
+        <description>Decentralized ad network</description>
+        <fluctuation24h>-1.90</fluctuation24h>
+        <fluctuation7d>-0.5</fluctuation7d>
+        <marketCap>65846983</marketCap>
+        <volume24h>3125</volume24h>
+    </Coin>
+
+
+
+
+
+
+
+
+    <Coin>
+        <name>Cheetah</name>
+        <price>345</price>
+        <imgPath>./Images/cheetah.png</imgPath>
+        <description>Decentralized database and currency</description>
+        <fluctuation24h>-8.08</fluctuation24h>
+        <fluctuation7d>-0.1</fluctuation7d>
+        <marketCap>345</marketCap>
+        <volume24h>4</volume24h>
+    </Coin>
+    <Coin>
+        <name>Compx222</name>
+        <price>5678</price>
+        <imgPath>./Images/compx222.png</imgPath>
+        <description>Serious meme bitcoin clone</description>
+        <fluctuation24h>345</fluctuation24h>
+        <fluctuation7d>-45.5</fluctuation7d>
+        <marketCap>234</marketCap>
+        <volume24h>123235</volume24h>
+    </Coin>
+    <Coin>
+        <name>Covid</name>
+        <price>9999999</price>
+        <imgPath>./Images/covid.png</imgPath>
+        <description>Co-signed Cryptocurrency Loans</description>
+        <fluctuation24h>-567</fluctuation24h>
+        <fluctuation7d>245</fluctuation7d>
+        <marketCap>1</marketCap>
+        <volume24h>1</volume24h>
+    </Coin>
+    <Coin>
+        <name>Facebook</name>
+        <price>980</price>
+        <imgPath>./Images/facebook.png</imgPath>
+        <description>Mint for cryptocurrency investments </description>
+        <fluctuation24h>5673</fluctuation24h>
+        <fluctuation7d>35756865</fluctuation7d>
+        <marketCap>344444444</marketCap>
+        <volume24h>123123653</volume24h>
+    </Coin>
+    <Coin>
+        <name>Leaf</name>
+        <price>0</price>
+        <imgPath>./Images/leaf.png</imgPath>
+        <description>Bitcoin with private transactions </description>
+        <fluctuation24h>785</fluctuation24h>
+        <fluctuation7d>9998</fluctuation7d>
+        <marketCap>98706</marketCap>
+        <volume24h>980234</volume24h>
+    </Coin>
+    <Coin>
+        <name>Maga</name>
+        <price>6700</price>
+        <imgPath>./Images/maga.png</imgPath>
+        <description>Decentralized application platform</description>
+        <fluctuation24h>10</fluctuation24h>
+        <fluctuation7d>34</fluctuation7d>
+        <marketCap>6254</marketCap>
+        <volume24h>3122345</volume24h>
+    </Coin>
+    <Coin>
+        <name>Squid</name>
+        <price>90</price>
+        <imgPath>./Images/squid.png</imgPath>
+        <description>Real-time data marketplace</description>
+        <fluctuation24h>-1.10</fluctuation24h>
+        <fluctuation7d>-0.52</fluctuation7d>
+        <marketCap>65983</marketCap>
+        <volume24h>35</volume24h>
+    </Coin>
+    <Coin>
+        <name>Sun</name>
+        <price>89</price>
+        <imgPath>./Images/sun.png</imgPath>
+        <description>Decentralized exchange</description>
+        <fluctuation24h>1.90</fluctuation24h>
+        <fluctuation7d>0.5</fluctuation7d>
+        <marketCap>95846983</marketCap>
+        <volume24h>56</volume24h>
+    </Coin>
+    <Coin>
+        <name>Tree</name>
+        <price>5</price>
+        <imgPath>./Images/tree.png</imgPath>
+        <description>Profit-sharing exchange fees </description>
+        <fluctuation24h>56</fluctuation24h>
+        <fluctuation7d>-4.5</fluctuation7d>
+        <marketCap>900</marketCap>
+        <volume24h>8653</volume24h>
+    </Coin>
+    <Coin>
+        <name>Z</name>
+        <price>200</price>
+        <imgPath>./Images/z.png</imgPath>
+        <description>Privacy marketplace and chat</description>
+        <fluctuation24h>-8.90</fluctuation24h>
+        <fluctuation7d>-2</fluctuation7d>
+        <marketCap>800</marketCap>
+        <volume24h>2000</volume24h>
+    </Coin>
+
+</Currencies>

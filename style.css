@@ -1,0 +1,219 @@
+/* Based on the screen size */
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 1400px;
+}
+#Container {
+    width: 100%;
+    height: 100vh;
+    position:absolute;
+    top:0px;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    display: inline-block;
+    min-width: 1000px;
+}
+#Header {
+    position: absolute;
+    width: 100%;
+    height:25vh;
+    margin-top:1vh;
+}
+#Logo {
+    position: absolute;
+    padding: 0;
+
+}
+#logoImage{
+    width: 15vh;
+    height: 15vh;
+}
+#Title {
+    float: right;
+    width: 100%;
+    height: 18vh;
+    margin-bottom: 3vh;
+    border-bottom: 15px solid black;
+}
+#Title img{
+    margin-left: 350px;
+}
+#Sidebar {
+    width: 200px;    
+    overflow:auto;
+    position:sticky;   
+    margin: 0;
+    padding: 0;
+    top:0px;
+    height:100vh;
+    margin-top:25.8vh;
+    border-top: none;
+    background-color: #696969;
+}
+#titleSidebar{
+    background-color: #3d3d3d;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+#titleSidebar p{
+    margin-left: 6px;
+    font-weight: 900;
+    font-size: 20px;
+}
+#searchBox{
+    width: 100px;
+}
+#homeButton{
+    width: 50%;
+    margin-left: 40px;
+}
+#Navigation button{
+    color: white;
+    background-color: #3d3d3d;
+    border-style: none;
+    padding: 4px;
+}
+#Navigation input{
+    background-color: #A9A9A9;
+}
+#Navigation select{
+    background-color: #A9A9A9;
+}
+#Navigation form{
+    padding: 5px;
+}
+#Navigation select{
+    margin-top: 20px;
+}
+#Taskbar {
+    position:absolute;
+    height:10%;
+    width: 100%;
+    bottom:1%;
+    padding-top: 0;
+    border-bottom: 1px solid black;
+}
+#taskbarContainer{
+    margin-left: 360px;
+}
+.TaskText{
+    float:left;
+    border:none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.taskbarButtons{
+    float:left;
+    border:none;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+#nameTitle{
+    width: 130px;
+    margin: 0;
+    padding: 0;
+}
+#priceTitle{
+    width: 110px;
+    margin: 0;
+    padding: 0;
+}
+#fluc24hTitle{
+    width: 90px;
+    font-size: 13px;
+}
+#fluc7dTitle{
+    width: 80px;
+    font-size: 13px;
+
+}
+#capTitle{
+    width: 90px;
+    font-size: 13px;
+
+}
+h1{
+    font-size: 3.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Content {
+    position: absolute;
+    top:26vh;
+    margin-left:240px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.CoinContent{
+    margin-left: 30px;
+    border-bottom: 1px solid #dcdcdc;
+    display: flex;
+    padding: 5px;
+}
+.CoinContent:hover{
+    background-color: #f8f8ff;
+}
+#CoinImage{
+    width: 50px;
+    height: 50px;
+}
+#CoinName{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    padding: 5px;
+    width:115px;
+}
+#Price{
+    padding: 5px;
+    width: 90px;
+}
+#OneDay{
+    color: green;
+    padding: 5px;
+    width: 70px;
+}
+#OneDayDown{
+    color: red;
+    padding: 5px;
+    width: 70px;
+}
+#OneWeek{
+    color: green;
+    padding: 5px;
+    width: 90px;
+}
+#OneWeekDown{
+    color: red;
+    padding: 5px;
+    width: 90px;
+}
+#MarketCap{
+    padding: 5px;
+    width: 105px;
+}
+#Volume24{
+    padding: 5px;
+    width: 90px;
+}
+#index{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    width: 15px;
+}
+.coinDetails{
+    margin-left:60px;
+    border-bottom: 1px solid #dcdcdc;
+    display: flex;
+    padding: 5px;
+}
+#description{
+    margin-left: 7vw;
+}
